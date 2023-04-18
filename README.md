@@ -2,20 +2,24 @@
 
 Daily Engagement Contact Viewer is a GUI application that allows you to view and manage your contacts.
 
+
 ## Installation
 
 To install Daily Engagement Contact Viewer, you will need to have Python 3 installed on your computer. You can download Python 3 from the [official website](https://www.python.org/downloads/).
 
 Once you have Python 3 installed, you can install Contact Viewer by downloading the source code from this repository and running the following command in the directory where you downloaded the source code:
 
+```bash
 pip install -r requirements.txt
-
+```
 
 ## Usage
 
 To use Daily Engagement Contact Viewer, run the `daily_engagement.py` script with Python 3:
 
+```bash
 python3 daily_engagement.py
+```
 
 
 This will start the Daily Engagement Contact Viewer application. You can navigate through your contacts using the "Previous" and "Next" buttons. You can also jump to the first contact without a disposition by clicking the "Continue" button.
