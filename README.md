@@ -1,4 +1,4 @@
-# Daily_Engagement
+# Daily Engagement
 
 Daily Engagement Contact Viewer is a GUI application that allows you to view and manage your contacts.
 
@@ -31,3 +31,18 @@ You can also copy the name, number, and email of a contact to your clipboard by 
 ## License
 
 Contact Viewer is released under the MIT License.
+
+### 📕 Pls Support me for more future Projects..
+
+<!-- BLOG-POST-LIST:START -->
+
+---
+
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=edmark21&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
