@@ -18,10 +18,10 @@ pip install -r requirements.txt
 
 ## Usage
 
-To use Daily Engagement Contact Viewer, run the `daily_engagement.py` script with Python 3:
+To use Daily Engagement Contact Viewer, run the `daily_engagement.pyw` script with Python 3:
 
 ```bash
-python3 daily_engagement.py
+python3 daily_engagement.pyw
 ```
 
 
